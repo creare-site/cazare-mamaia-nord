@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<!--
+	Landscape by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+
+		<title>{{data.seo.title}}</title>
+		<meta name="description" content="{{data.seo.desc}}">
+
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+		<link rel="stylesheet" href="{{root}}assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+		<header id="header">
+			<nav id="nav">
+				<ul>
+					<li><a href="#intro">Home</a></li>
+					<li><a href="#one">Plaja</a></li>
+					<li><a href="#two">Terasa</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Reel -->
+					<div class="reel">
+
+						<!-- Intro -->
+						<article id="intro" class="slide style1 center">
+							<img src="{{root}}images/pic01.jpg" alt="" data-position="30% 50%" />
+							<div class="inner">
+								<header>
+									<h1>Taboo Beach - Mamaia Nord</h1>
+									<p>
+										Plaja destinata tuturor varstelor 👉 sezlong, terasa, mare, soare, mancare, cocktailuri.
+										<br /><br />	
+										<a href="tel:{{ data.phone }}"> {{ data.phone }} </a>
+									</p>
+								</header>
+								<ul class="actions special">
+									<li><a href="#one" class="button next">Mai mult</a></li>
+								</ul>
+							</div>
+						</article>
+
+						<!-- One -->
+						<article id="one" class="slide style2 left">
+							<img src="{{root}}images/pic02.jpg" alt="" data-position="center" />
+							<div class="inner">
+								<h2>Relaxare pe plaja</h2>
+								<p>Sezlong, terasa, mare cat vezi cu ochi.</p>
+							</div>
+						</article>
+
+						<!-- Two -->
+						<article id="two" class="slide style2 right">
+							<img src="{{root}}images/pic03.jpg" alt="" data-position="left" />
+							<div class="inner">
+								<h2>Terasa</h2>
+								<p>Mancare proaspata, fructe de mare, cocktailuri.</p>
+							</div>
+						</article>
+
+						<!-- Contact Us -->
+						<article id="contact" class="slide style2 with-content center">
+							<img src="{{root}}images/pic01.jpg" alt="" data-position="30% 50%" />
+							<div class="inner">
+								<h2>Contact</h2>
+								<p>
+									Va asteptam cu drag!
+									<br />
+									<a href="tel:{{ data.phone }}"> {{ data.phone }} </a>
+								</p>
+								<ul class="icons">
+									<li><a href="{{ data.links.facebook }}"  class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="{{ data.links.instagram }}" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+								</ul>
+
+								<a class="small" href="{{ data.links.buy }}"><span class="label">WebsiteMarket</span></a>
+							</div>
+						</article>
+
+					</div>
+
+			</div>
+
+	{{> scripts}}
+
+	</body>
+</html>
