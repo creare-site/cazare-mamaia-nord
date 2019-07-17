@@ -1,17 +1,33 @@
 # Site - [Cazare Mamaia Nord](https://cazare-mamaia-nord.websitemarket.ro)
+
 Site de prezentare, Taboo Beach. Un produs [WebsiteMarket](https://websitemarket.ro?ref=cazare-mamaia-nord)
 
-![Cazare Mamaia Nord](./screenshots/thumb.jpg)
+<br />
+
+![Cazare Mamaia Nord](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-cazare-mamaia.jpg)
+
+<br />
 
 ## Informatii produs
 ---
- - Site de prezentare Plaja Mamaia Nord
+ - Site de prezentare - Unitate cazare
  - Live [DEMO](https://cazare-mamaia-nord.websitemarket.ro)
- - Informatii [produs](https://websitemarket.ro/creare-site/cazare-mamaia-nord)
+ 
+<br />
 
 ## Licenta
+
  - Acest produs este protejat de drepturi de autor
- - Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro/comanda?ref=cazare-mamaia-nord) 
+ - Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro/?ref=cazare-mamaia-nord) 
+
+<br />
+
+## Utilizare (pentru dezvoltatori)
+
+Acesta website este o aplicatie JAMstack, integrata in generatorul static Panini. 
+Pentru detalii acesati LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
+
+<br />
 
 ---
-Un produs [WebsiteMarket](https://websitemarket.ro?ref=cazare-mamaia-nord)
+Site - [Cazare Mamaia Nord](https://cazare-mamaia-nord.websitemarket.ro)
