@@ -40,5 +40,7 @@ $ yarn build # generare site productie
 
 Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
+<br />
+
 ---
 Site Prezentare - [Cazare Mamaia Nord](https://cazare-mamaia-nord.websitemarket.ro) un produs **WebsiteMarket**
