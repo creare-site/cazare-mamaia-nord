@@ -4,7 +4,7 @@ Site de prezentare, Taboo Beach. Un produs [WebsiteMarket](https://websitemarket
 
 <br />
 
-![Cazare Mamaia Nord](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-cazare-mamaia.jpg)
+![Cazare Mamaia Nord](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-cazare-mamaia-intro.gif)
 
 <br />
 
